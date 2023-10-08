@@ -67,7 +67,7 @@ function App() {
       </p>
       <img src={user.avatar_url} />
       </div>
-    )}
+    )} 
 
   </div>
   );
